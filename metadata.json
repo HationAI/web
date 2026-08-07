@@ -1,0 +1,6 @@
+{
+  "name": "Hation AI",
+  "description": "Autonomous WISMO Email Automation for 3PLs & Fulfillment Operators",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
